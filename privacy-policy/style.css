@@ -29,6 +29,7 @@ hr {
 
 #wrapper h1 a {
     color: black;
+    text-decoration: none;
 }
 
 #wrapper h2 {
